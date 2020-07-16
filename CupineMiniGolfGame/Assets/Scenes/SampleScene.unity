@@ -376,7 +376,7 @@ GameObject:
   - component: {fileID: 2124546459}
   - component: {fileID: 2124546458}
   m_Layer: 0
-  m_Name: TestJpeg
+  m_Name: TestPNG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -421,12 +421,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 45d0cb616fd94024e829fd022ae60b22, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fe871c2f3b8d3af4db4f7b9c83d0c8d0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 4.47, y: 4.68}
+  m_Size: {x: 5.13, y: 3.78}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
